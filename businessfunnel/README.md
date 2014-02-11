@@ -23,7 +23,7 @@ Insert the following html tag in the actionpad where you want it to be shown, mo
 Following field need to be implemented in the database:
 
 *	 businessvalue (integer or decimal field)
-*	 businessvalue (option field with different values, set key values also)
+*	 businesstatus (option field with different values, set key values also)
 *	 coworker (relation field to coworker table)
 
 ###The standard configuration for the business funnel is:
